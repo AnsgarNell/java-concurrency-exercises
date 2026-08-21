@@ -1,6 +1,6 @@
 package com.nellpy.workshops.concurrency.exercises.executors.exercise4;
 
-import com.nellpy.workshops.concurrency.common.TimeLoggingHelloRunnable;
+import com.nellpy.workshops.concurrency.common.threads.TimeLoggingHelloRunnable;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
@@ -17,6 +17,7 @@ public class Exercise4 {
     }
 
 
+    @SuppressWarnings("unused")
     private static void pauseMainThreadExecution() {
         try {
             TimeUnit.SECONDS.sleep(10);

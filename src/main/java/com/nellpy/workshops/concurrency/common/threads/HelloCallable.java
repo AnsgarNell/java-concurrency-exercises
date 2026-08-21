@@ -1,4 +1,4 @@
-package com.nellpy.workshops.concurrency.common;
+package com.nellpy.workshops.concurrency.common.threads;
 
 import java.util.concurrent.Callable;
 

@@ -1,6 +1,7 @@
 package com.nellpy.workshops.concurrency.exercises.sync.exercise1;
 
 
+import com.nellpy.workshops.concurrency.common.counter.Counter;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

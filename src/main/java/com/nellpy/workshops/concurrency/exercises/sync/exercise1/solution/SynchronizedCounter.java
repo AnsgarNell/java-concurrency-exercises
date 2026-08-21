@@ -1,6 +1,6 @@
 package com.nellpy.workshops.concurrency.exercises.sync.exercise1.solution;
 
-import com.nellpy.workshops.concurrency.exercises.sync.exercise1.Counter;
+import com.nellpy.workshops.concurrency.common.counter.Counter;
 
 
 public class SynchronizedCounter implements Counter {

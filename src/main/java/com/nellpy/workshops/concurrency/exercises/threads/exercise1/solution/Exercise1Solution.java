@@ -1,6 +1,6 @@
 package com.nellpy.workshops.concurrency.exercises.threads.exercise1.solution;
 
-import com.nellpy.workshops.concurrency.common.SleepingHelloThread;
+import com.nellpy.workshops.concurrency.common.threads.SleepingHelloThread;
 
 
 public class Exercise1Solution {

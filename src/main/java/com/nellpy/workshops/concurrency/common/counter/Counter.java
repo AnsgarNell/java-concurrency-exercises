@@ -1,4 +1,4 @@
-package com.nellpy.workshops.concurrency.exercises.sync.exercise1;
+package com.nellpy.workshops.concurrency.common.counter;
 
 public interface Counter {
 

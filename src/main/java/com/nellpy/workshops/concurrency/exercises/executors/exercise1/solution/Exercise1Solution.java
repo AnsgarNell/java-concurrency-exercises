@@ -1,6 +1,6 @@
 package com.nellpy.workshops.concurrency.exercises.executors.exercise1.solution;
 
-import com.nellpy.workshops.concurrency.common.PrintingHelloCallable;
+import com.nellpy.workshops.concurrency.common.threads.PrintingHelloCallable;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

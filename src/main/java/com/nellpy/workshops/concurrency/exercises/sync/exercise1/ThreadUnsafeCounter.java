@@ -2,6 +2,9 @@ package com.nellpy.workshops.concurrency.exercises.sync.exercise1;
 
 // Based on https://docs.oracle.com/javase/tutorial/essential/concurrency/examples/Counter.java
 
+import com.nellpy.workshops.concurrency.common.counter.Counter;
+
+
 class ThreadUnsafeCounter implements Counter {
 
     private int counter = 0;

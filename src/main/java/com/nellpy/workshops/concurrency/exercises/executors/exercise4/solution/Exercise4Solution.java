@@ -1,6 +1,6 @@
 package com.nellpy.workshops.concurrency.exercises.executors.exercise4.solution;
 
-import com.nellpy.workshops.concurrency.common.TimeLoggingHelloRunnable;
+import com.nellpy.workshops.concurrency.common.threads.TimeLoggingHelloRunnable;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
